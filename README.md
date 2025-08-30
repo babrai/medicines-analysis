@@ -27,3 +27,23 @@ The goal of this project is to analyze 250k medicine records from Kaggle in orde
 
 ### Top 20 Most Common Side Effects
 ![Top side effects](images/top_side_effects.png)
+
+### Top 5 Side Effects and Their Associated Therapeutic Classes
+
+This section explores the five most common side effects across the dataset and identifies the top five therapeutic classes associated with each effect.  
+
+#### Nausea
+![Nausea](images/Nausea_top5_classes.png)
+
+#### Diarrhea
+![Diarrhea](images/Diarrhea_top5_classes.png)
+
+#### Vomiting
+![Vomiting](images/Vomiting_top5_classes.png)
+
+#### Headache
+![Headache](images/Headache_top5_classes.png)
+
+#### Dizziness
+![Dizziness](images/Dizziness_top5_classes.png)
+
