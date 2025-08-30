@@ -76,3 +76,11 @@ The full table is available in [Download summary table (CSV)](data/top5_sideeffe
 - Headache and Dizziness occur across multiple classes, but are particularly frequent in **RESPIRATORY** and **CARDIAC** medicines.  
 - Overall, **ANTI INFECTIVES** dominate the side-effect landscape, highlighting their broad impact on patients.
 
+### Habit-Forming Chemical Classes
+
+![Habit forming classes](images/top_habit_forming_classes.png)
+
+**Key Findings:**
+- Only a small subset of chemical classes are marked as habit-forming.
+- These are often linked to classes of drugs with addictive potential (e.g. painkillers, sedatives).
+
