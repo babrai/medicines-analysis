@@ -4,8 +4,6 @@ Analysis of Side Effects, Substitutes, and Drug Classes (250k Records from Kaggl
 ## Project Goal
 The goal of this project is to analyze 250k medicine records from Kaggle in order to:
 - Identify the most common side effects
-- Explore which medicines are associated with specific effects (e.g. nausea, diarrhea)
-- Understand relationships between **uses** and **action classes**
 - Find which chemical classes are most “toxic” (many side effects)
 - Investigate which classes are habit-forming
 
@@ -21,11 +19,9 @@ The goal of this project is to analyze 250k medicine records from Kaggle in orde
 - `dashboard/` – Looker Studio dashboard screenshots and links  
 
 ## Research Questions
-1. What side effects are most frequent?  
-2. Which medicines are associated with specific side effects (nausea, diarrhea, etc.)?  
-3. Which action classes are most common for different uses?  
-4. Which chemical classes are linked to the highest number of side effects?  
-5. Which chemical classes are most frequently habit-forming?  
+1. What side effects are most frequent?   
+2. Which chemical classes are linked to the highest number of side effects?  
+3. Which chemical classes are most frequently habit-forming?  
 
 ## Results
 
