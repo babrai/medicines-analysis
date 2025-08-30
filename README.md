@@ -52,5 +52,27 @@ This section explores the five most common side effects across the dataset and i
 ![Dizziness](images/Dizziness_top5_classes.png)  
 *Dizziness is most often associated with **CARDIAC** and **RESPIRATORY** classes, highlighting possible links to blood pressure and antihistamine treatments.*
 
-[Download summary table (CSV)](data/top5_sideeffects_vs_classes.csv)
+### Summary Table: Top 5 Side Effects × Therapeutic Classes
+
+Below is a preview of the first 10 rows of the summary table.  
+The full table is available in [Download summary table (CSV)](data/top5_sideeffects_vs_classes.csv)
+
+| Side Effect   | Therapeutic Class   |   Count |
+|:--------------|:--------------------|--------:|
+| Nausea        | ANTI INFECTIVES     |   46597 |
+| Nausea        | PAIN ANALGESICS     |   27357 |
+| Nausea        | GASTRO INTESTINAL   |   17615 |
+| Nausea        | RESPIRATORY         |   16310 |
+| Nausea        | CARDIAC             |   11440 |
+| Diarrhea      | ANTI INFECTIVES     |   51066 |
+| Diarrhea      | GASTRO INTESTINAL   |   26581 |
+| Diarrhea      | PAIN ANALGESICS     |   23103 |
+| Diarrhea      | RESPIRATORY         |    9683 |
+| Diarrhea      | ANTI DIABETIC       |    9374 |
+
+**Key Findings:**
+- Nausea and Diarrhea are most strongly associated with the **ANTI INFECTIVES** class, reflecting common side effects of antibiotics.  
+- Vomiting is also heavily represented in **ANTI INFECTIVES**, but appears in some **CARDIAC** medicines as well.  
+- Headache and Dizziness occur across multiple classes, but are particularly frequent in **RESPIRATORY** and **CARDIAC** medicines.  
+- Overall, **ANTI INFECTIVES** dominate the side-effect landscape, highlighting their broad impact on patients.
 
