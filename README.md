@@ -26,3 +26,8 @@ The goal of this project is to analyze 250k medicine records from Kaggle in orde
 3. Which action classes are most common for different uses?  
 4. Which chemical classes are linked to the highest number of side effects?  
 5. Which chemical classes are most frequently habit-forming?  
+
+## Results
+
+### Top 20 Most Common Side Effects
+![Top side effects](images/top_side_effects.png)
