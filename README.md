@@ -33,17 +33,23 @@ The goal of this project is to analyze 250k medicine records from Kaggle in orde
 This section explores the five most common side effects across the dataset and identifies the top five therapeutic classes associated with each effect.  
 
 #### Nausea
-![Nausea](images/Nausea_top5_classes.png)
+![Nausea](images/Nausea_top5_classes.png)  
+*Nausea is most frequently linked with **ANTI INFECTIVES** and **RESPIRATORY** therapeutic classes, suggesting that antibiotics and respiratory treatments often report this side effect.*
 
 #### Diarrhea
-![Diarrhea](images/Diarrhea_top5_classes.png)
+![Diarrhea](images/Diarrhea_top5_classes.png)  
+*Diarrhea is commonly associated with **ANTI INFECTIVES**, indicating that many antibacterial treatments list it as a side effect.*
 
 #### Vomiting
-![Vomiting](images/Vomiting_top5_classes.png)
+![Vomiting](images/Vomiting_top5_classes.png)  
+*Vomiting appears across several therapeutic classes, with a strong presence in **ANTI INFECTIVES** and **CARDIAC** medicines.*
 
 #### Headache
-![Headache](images/Headache_top5_classes.png)
+![Headache](images/Headache_top5_classes.png)  
+*Headache is frequently reported in **RESPIRATORY** and **CARDIAC** classes, which may reflect side effects of antihistamines and heart medications.*
 
 #### Dizziness
-![Dizziness](images/Dizziness_top5_classes.png)
+![Dizziness](images/Dizziness_top5_classes.png)  
+*Dizziness is most often associated with **CARDIAC** and **RESPIRATORY** classes, highlighting possible links to blood pressure and antihistamine treatments.*
+
 
