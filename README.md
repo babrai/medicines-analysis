@@ -52,4 +52,5 @@ This section explores the five most common side effects across the dataset and i
 ![Dizziness](images/Dizziness_top5_classes.png)  
 *Dizziness is most often associated with **CARDIAC** and **RESPIRATORY** classes, highlighting possible links to blood pressure and antihistamine treatments.*
 
+[Download summary table (CSV)](data/top5_sideeffects_vs_classes.csv)
 
