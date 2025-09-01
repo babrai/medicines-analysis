@@ -28,16 +28,12 @@ The goal is to demonstrate a structured approach to data analysis and visualizat
 4. Which chemical classes are associated with the largest number of side effects?  
 5. Which chemical classes are most frequently habit-forming?  
 
----
-
 ## 📊 Results
 
 ### Q1: Most Frequent Side Effects
 ![Top side effects](images/top_side_effects.png)  
 
-✅ Identified the **Top 20 most common side effects** across the dataset.  
-
----
+- Identified the **Top 20 most common side effects** across the dataset.  
 
 ### Q3: Top 5 Side Effects × Therapeutic Classes
 Below is a preview of the first 10 rows of the summary table.  
@@ -62,16 +58,12 @@ The full table is available in [data/top5_sideeffects_vs_classes.csv](data/top5_
 - Headache and Dizziness are frequent in **RESPIRATORY** and **CARDIAC**.  
 - Overall, **ANTI INFECTIVES** dominate the side-effect landscape.  
 
----
-
 ### Q5: Habit-Forming Chemical Classes
 ![Habit forming classes](images/top_habit_forming_classes.png)  
 
 **Key Findings:**
 - Only a small subset of chemical classes are marked as habit-forming.  
 - These are often linked to addictive drugs, such as painkillers or sedatives.  
-
----
 
 ### Q5: Habit-Forming Chemical Classes (Top 10)
 Below is a preview of the first 10 rows of the summary table.  
@@ -95,14 +87,10 @@ The full table is available in [data/habit_forming.csv](data/habit_forming.csv).
 - Several **sedative and psychoactive classes** (e.g., Anisole, Barbituric Acid derivatives) are also prominent, reflecting their known addictive potential.
 - The distribution is highly skewed — only a few chemical classes account for the majority of habit-forming drugs.
 
-
-
 ### Q2 and Q4: Deprioritized
 Some questions were explored but deprioritized, as they provided limited insights for the dataset:
 - Q2 (Medicines associated with specific side effects)  
 - Q4 (Chemical classes with the largest number of side effects)  
-
----
 
 ## 📈 Dashboard (Work in Progress)
 An interactive Looker Studio dashboard will be added here.  
@@ -112,15 +100,11 @@ Planned features:
 - Distribution of Therapeutic Classes for selected side effects  
 - Overview of habit-forming chemical classes  
 
----
-
 ## 🛠 Tools & Libraries
 - Python (pandas, matplotlib, seaborn)  
 - Jupyter Notebook  
 - GitHub  
 - Looker Studio (planned for dashboard)  
-
----
 
 ## 🔮 Future Work
 - Build an interactive dashboard in Looker Studio for non-technical users  
