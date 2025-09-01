@@ -73,6 +73,30 @@ The full table is available in [data/top5_sideeffects_vs_classes.csv](data/top5_
 
 ---
 
+### Q5: Habit-Forming Chemical Classes (Top 10)
+Below is a preview of the first 10 rows of the summary table.  
+The full table is available in [data/habit_forming.csv](data/habit_forming.csv).
+
+| Chemical Class              | Count |
+|----------------------------|-------:|
+| Benzodiazepines Derivative |  2262 |
+| Anisole Derivative         |   411 |
+| Imidazopyridine Derivative |   214 |
+| Benzodiazepine Derivative  |    88 |
+| Barbituric Acid Derivative |    64 |
+| Diphenylmethane Derivative |    50 |
+| Cyclopyrrolone Derivative  |    28 |
+| Phenanthrenes Derivatives  |    27 |
+| Phenanthrenes Derivative   |    22 |
+| Benzomorphan Derivatives   |    22 |
+
+**Key Findings:**
+- **Benzodiazepine-based derivatives** clearly dominate among habit-forming medicines, with over 2,200 entries.
+- Several **sedative and psychoactive classes** (e.g., Anisole, Barbituric Acid derivatives) are also prominent, reflecting their known addictive potential.
+- The distribution is highly skewed — only a few chemical classes account for the majority of habit-forming drugs.
+
+
+
 ### Q2 and Q4: Deprioritized
 Some questions were explored but deprioritized, as they provided limited insights for the dataset:
 - Q2 (Medicines associated with specific side effects)  
