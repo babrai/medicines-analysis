@@ -99,10 +99,12 @@ Explore the live dashboard in Looker Studio:
 
 **Tabs:**
 
-1. Top 5 Side Effects × Therapeutic Classes
+Top 5 Side Effects × Therapeutic Classes
+   
 ![Side Effects Dashboard](dashboard/side_effects_tab.png)
 
-2. Habit-Forming Chemical Classes
+Habit-Forming Chemical Classes
+
 ![Habit-Forming Dashboard](dashboard/habit_forming_tab.png)
 
 The dashboard includes filters, tables, and visualizations for exploring the most frequent side effects and habit-forming chemical classes.
