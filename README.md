@@ -92,13 +92,17 @@ Some questions were explored but deprioritized, as they provided limited insight
 - Q2 (Medicines associated with specific side effects)  
 - Q4 (Chemical classes with the largest number of side effects)  
 
-## 📈 Dashboard (Work in Progress)
-An interactive Looker Studio dashboard will be added here.  
+### 📈 Interactive Dashboard
+Explore the live dashboard in Looker Studio:
 
-Planned features:  
-- Filter by Side Effect  
-- Distribution of Therapeutic Classes for selected side effects  
-- Overview of habit-forming chemical classes  
+👉 [View Dashboard](https://lookerstudio.google.com/reporting/3ff1c6bd-2d42-47a1-b7f6-763b083788df)
+
+## Tabs:
+1. **Top 5 Side Effects × Therapeutic Classes**
+2. **Habit-Forming Chemical Classes**
+
+The dashboard includes filters, tables, and visualizations for exploring the most frequent side effects and habit-forming chemical classes.
+  
 
 ## 🛠 Tools & Libraries
 - Python (pandas, matplotlib, seaborn)  
