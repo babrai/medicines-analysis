@@ -113,9 +113,6 @@ The dashboard includes filters, tables, and visualizations for exploring the mos
 - Python (pandas, matplotlib, seaborn)  
 - Jupyter Notebook  
 - GitHub  
-- Looker Studio (planned for dashboard)  
-
-## 🔮 Future Work
-- Build an interactive dashboard in Looker Studio for non-technical users  
+- Looker Studio 
 
 
