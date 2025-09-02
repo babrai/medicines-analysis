@@ -5,3 +5,5 @@
 This dashboard includes:
 - Top 5 Side Effects × Therapeutic Classes
 - Habit-Forming Chemical Classes
+
+Last updated: Sep 2025
